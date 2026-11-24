@@ -1,0 +1,8 @@
+{
+  "name": "SteamClock — Next Steam Sale Countdown & History",
+  "description": "Live countdown to the next Steam seasonal sale, official 2026–2027 fest schedule, multi-year Steam sales history archive, and sale budget planner.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
